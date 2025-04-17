@@ -26,7 +26,8 @@ For instance
 
 The following figure shows the main procedures of creating the dataset:
 
-![figure](Asset/fig-dataset2.jpg "Pipelines of creating the dataset")
+
+<img src=Asset/fig-dataset2.jpg width=60% width=60% />
 
 
 
