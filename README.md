@@ -2,10 +2,10 @@
 This repo includes the 6GTech dataset
 
 
-This repo includes the 6GTech dataset, which is initially designed for entity extraction tasks in the 6G domain. 
+This repo includes the 6GTech dataset, which is designed for entity extraction tasks in the 6G domain. 
 
 6GTech dataset includes 2390 sentences and 23747 words from more than 100 6G-related technical publications.
-Based on paper abstract, the dataset provides entities extracted from the description:
+Based on paper's abstract, the dataset provides entities extracted from the description:
 For instance
 
 ```json
